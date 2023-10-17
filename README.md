@@ -1,6 +1,6 @@
 # Question-Quality-Assessment
 
-결과
+결과 - https://github.com/kibumbing/Question-Quality-Assessment/blob/main/question_quality_assessment.pdf
 
 학생 답변 및 메타데이터를 통한 문제 품질 추정
 
